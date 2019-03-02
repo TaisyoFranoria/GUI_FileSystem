@@ -1,2 +1,3 @@
 ﻿  main.cpp
-  filesarver.vcxproj -> C:\Users\taisy\source\repos\filesarver\Debug\filesarver.exe
+d:\documents\gui_filesystem\filesarver\main.cpp(69): warning C4806: '==': 安全でない演算: 'bool' 型から 'int' 型への上位変換を行うと与えられた定数に等しくなりません
+  filesarver.vcxproj -> D:\Documents\GUI_FileSystem\Debug\filesarver.exe
